@@ -14,7 +14,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1020800
-        versionName '1.2.8'
+        versionName '1.2.8 - mod'
     }
 
     packagingOptions {
