@@ -29,6 +29,7 @@
     <color name="text_icon_disabled">#FFFFFF</color>
     <color name="text_recent">#FFFFFF</color>
     <color name="text_description">#FFFFFF</color>
+    <color name="text_hint">#BEBEBE</color>
     <color name="pager_title_background_top_start">#27303B</color>
     <color name="pager_title_background_top_end">#27303B</color>
     <color name="pager_title_background_bottom">#27303B</color>
